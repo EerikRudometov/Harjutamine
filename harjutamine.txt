@@ -1,1 +1,3 @@
-
+GitHub on veebimajandusteenus ja seda kasutavad arendajad.
+Mina saan kasutada GitHubi koolis ülesannete lahendamisel ja failide muutmiseks
+GitHubi asustasid Tom Preston-Werner, Chris Wanstrath, Scott Chacon ja P. J. Hyett 8.veebruaril 2008. aastal. GitHubi teenus oli kättesaadav 2008. aasta aprillist.
